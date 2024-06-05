@@ -1,3 +1,15 @@
 ---
-title: "About"
+title: "Education"
 ---
+
+During my time at UCSB, there were certain classes which I felt were extremely impactful, as they taught me important skills and knowledge, and influenced my career path.
+
+## Key Courses
+
+Agroecology, taught by Liz Carlisle
+
+Soils of California, taught by Iriz Holzer
+
+Statistics for Environmental Studies, by An Bui
+
+Environmental Economics, by Robert Heilmayr
