@@ -1,5 +1,5 @@
 ---
-title: "katie-cheslick.github.io"
+title: "Katie Cheslick"
 ---
 
 This is a Quarto website.
