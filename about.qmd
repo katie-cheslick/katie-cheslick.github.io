@@ -16,6 +16,8 @@ While I had heard about regenerative agriculture before this class, it was lectu
 
 **Environmental Economics, by Robert Heilmayr**
 
-This course provided a new lens for me, through which I could view environmental issues as part of a big picture—a picture of the world we live in, in which environmemtal health is governed by economic practices and economic opportunity. I learned how environmental issues cannot be separated from the capitalist system in which they exist, and how environmental issues which seem easy to fix at first glace are often complicated by the economic practices that drive them.
+This course provided a new lens for me, through which I could view environmental issues as part of a big picture—a picture of the world we live in, in which environmental health is governed by economic practices and economic opportunity. I learned how environmental issues cannot be separated from the capitalist system in which they exist, and how environmental issues which seem easy to fix at first glace are often complicated by the economic practices that drive them.
 
 ## Project Portfolio
+
+{{< pdf C.elegansproject.pdf width=100% >}}\
