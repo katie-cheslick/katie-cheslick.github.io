@@ -3,9 +3,9 @@ title: "Katie Cheslick"
 image: IMG_0663.jpg
 toc: false
 about: 
-  template: broadside
-  image-shape: rectangle
-  image-width: 40em
+  template: trestles
+  image-shape: round
+  image-width: 20em
   links:
     - text: LinkedIn
       href: https://linkedin.com/in/katelyncheslick
