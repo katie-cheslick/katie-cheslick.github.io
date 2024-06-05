@@ -12,7 +12,11 @@ While I had heard about regenerative agriculture before this class, it was lectu
 
 **Soils of California, taught by Iriz Holzer**
 
+This course, taken in my last year of college, allowed me to understand soil more deeply: what it is exactly, how it is made through weathering and other geologic processes, how and why soils vary by location, how they play a role in global carbon and nitrogen cycles, and how we can maintain the health of our soils. By participating in lab work in the field each week, I learned how to identify soil horizons, measure soil properties such as color, texture, consistence, and pH, and how to classify a soil. These skills have allowed me to think about the earth under our feet in a new way, and have helped to put knowledge about agriculture across the globe into perspective, as I can understand more about why certain crops are successful in some places but not others.
+
 **Statistics for Environmental Studies, by An Bui**
+
+Though I had taken statistics classes before, this class was unique in that it was combined with learning the programming language R. I learned important statistical tests and principles, which has allowed me to be a better scientist and analyze scientific papers in a more comprehensive way. I also learned how to create a variety of data visualizations to illustrate different types of data, and how to create a website and generative art (art made using code). This course pushed me outside of my comfort zone, and helped me to acquire skills that I will be taking forward in my daily life.
 
 **Environmental Economics, by Robert Heilmayr**
 
@@ -20,4 +24,8 @@ This course provided a new lens for me, through which I could view environmental
 
 ## Project Portfolio
 
-{{< pdf C.elegansproject.pdf width=100% >}}\
+**Studying Caenorhabditis elegans: Using RNAi to Knock Down UNC-3 and LPR-5 Genes to Determine Gene Necessity for Chemoperception**
+
+{{< pdf C.elegansproject.pdf width=400 height=600 >}}
+
+\
