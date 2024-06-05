@@ -7,11 +7,14 @@ about:
   image-shape: round
   image-width: 20em
   links:
-    - text: LinkedIn
+    - icon: linkedin
+      text: LinkedIn
       href: https://linkedin.com/in/katelyncheslick
-    - text: Email
+    - icon: envelope
+      text: Email
       href: mailto::kcheslick48@gmail.com
-    - text: GitHub
+    - icon: github
+      text: GitHub
       href: https://github.com/katie-cheslick
 ---
 

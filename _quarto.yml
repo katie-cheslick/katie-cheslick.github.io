@@ -13,7 +13,10 @@ website:
       - about.qmd
       - href: myart.qmd
         text: Artwork
-
+  page-footer:
+    background: light 
+    left: Copyright 2024, Katie Cheslick
+    right: This website is built with RStudio and Quarto.
 format:
   html:
     theme: morph
