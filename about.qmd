@@ -28,4 +28,8 @@ This course provided a new lens for me, through which I could view environmental
 
 {{< pdf C.elegansproject.pdf width=400 height=600 >}}
 
+**Santa Barbara Conservation Efforts and Opportunities**
+
+{{< pdf SBConsvOpportunities.pdf width=400 height=600 >}}
+
 \
