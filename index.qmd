@@ -1,5 +1,25 @@
 ---
 title: "Katie Cheslick"
+image: IMG_0663.jpg
+toc: false
+about: 
+  template: broadside
+  image-shape: rectangle
+  image-width: 20em
+  links:
+    - text: LinkedIn
+      href: https://linkedin.com/in/katelyncheslick
+    - text: Email
+      href: mailto::kcheslick48@gmail.com
 ---
 
 this is my bio
+
+---
+
+new page
+
+---
+
+more info
+
