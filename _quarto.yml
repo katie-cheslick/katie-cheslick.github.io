@@ -3,8 +3,8 @@ project:
   output-dir: docs
 
 website:
-  title: "katie-cheslick.github.io"
   navbar:
+    title: "Katie Cheslick"
     left:
       - href: index.qmd
         text: Home
@@ -15,6 +15,7 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 
