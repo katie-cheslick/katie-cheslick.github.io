@@ -1,0 +1,19 @@
+/*-- scss:defaults --*/
+
+// Import fonts
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+// Colors
+$grey: #8e9d96;
+$light-blue: #73a6d1;
+$mint-green: #d1e5dc;
+$off-white: #f1faf6;
+
+// Base document colors
+$navbar-bg: $off-white; // navbar
+$navbar-fg: $grey; // navbar foreground elements
+$navbar-hl: $light-blue; // highlight color when hovering over navbar links
+$body-bg: $mint-green; // page background 
+$body-color: $grey; // page text 
+$footer-bg: $off-white; // footer 
+$link-color: $light-blue; // hyperlinks

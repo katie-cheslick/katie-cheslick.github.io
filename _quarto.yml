@@ -19,7 +19,8 @@ website:
     right: This website is built with RStudio and Quarto.
 format:
   html:
-    theme: morph
+    theme: styles.scss
+    mainfont: Montserrat
     css: styles.css
     toc: true
     page-layout: full
